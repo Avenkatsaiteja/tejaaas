@@ -1,2 +1,3 @@
 # tejaaas
-its my first GIT repository
+its my first GIT repository.
+Author - Avsteja
